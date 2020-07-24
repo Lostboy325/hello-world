@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+#resume{
+	background-color:#595959;
+    color: white;
+	height: 60px;
+}
+h1{
+	margin-left: 40px;
+	padding-top: 9px;
+}
+h2{
+	float: left;
+    background-color:#D0D0D0;
+	padding: 40px 5px;
+	margin:1px;
+}
+h3{
+	float: left;
+}
+#name,#gender,#job{
+	float: left;
+	width: 25%;
+}
+#phone,#email,#perPage{
+	float: left;
+	width: 25%;
+}
+#information,#contact,#skills,#education,#program{
+    clear: both;
+	border: solid 0.5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+#name{
+	float:left;
+	width: 32%;
+	
+}
+#gender{
+	float:left;
+	width: 32%;
+}
+#job{
+	float: right;
+	width: 32%;
+}
+bdi{
+	font-weight:lighter;
+}
+
+#contact{
+	clear:both;
+}
+#phone{
+	float:left;
+	width: 32%;
+}
+#email{
+	float: left;
+	width: 32%;
+	
+}
+#perPage{
+	float: right;
+	width: 32%;
+}
+#skills{
+	clear: both;
+}
+
+
+
+
+
+

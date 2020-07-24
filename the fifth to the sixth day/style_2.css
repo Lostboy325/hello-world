@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+#resume{
+	float: left;
+	width: 20%;
+	height: 900px;
+	background-color: #4376ED;
+	margin-right: 50px;
+}
+h1{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 50px;
+	color: white;
+}
+#name{
+	float:left;
+	width: 20%;
+	
+}
+#gender{
+	float:left;
+	width: 20%;
+}
+#job{
+	float: left;
+	width: 35%;
+}
+bdi{
+	font-weight:lighter;
+}
+
+#contact{
+	clear;
+}
+#phone{
+	float:left;
+	width: 20%;
+}
+#email{
+	float: left;
+	width: 20%;
+	
+}
+#perPage{
+	float: right;
+	width: 35%;
+}
+
+
